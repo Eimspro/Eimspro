@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy Emilio Madriz
+# 👋 Hi! I'm Emilio Madriz
 
-Soy un joven **apasionado por la tecnología** y **amante de la programación** de Costa Rica 🇨🇷. Desde los **8 años** he estado profundizando en el mundo de la programación. Actualmente, soy el **Manager** de un grupo tecnológico llamado [Eimsprosoftware](https://eimsprosoftware.com) 💻. Mis tecnologías favoritas incluyen: 
+I'm a young **technology enthusiast** and **programming lover** from Costa Rica 🇨🇷. Since the age of **8**, I've been diving deep into the world of programming. Currently, I am the **Manager** of a tech group called [Eimsprosoftware](https://eimsprosoftware.com) 💻. My favorite technologies include:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Code-PHP-787CB5?style=for-the-badge&logo=php&logoColor=white" />
@@ -9,22 +9,18 @@ Soy un joven **apasionado por la tecnología** y **amante de la programación** 
   <img src="https://img.shields.io/badge/Code-SQL-336791?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </div>
 
-## 💼 Mi Rol Actual
-Soy el encargado de [EIMSProSoftware](https://eimsprosoftware.com), donde desarrollamos soluciones innovadoras utilizando una variedad de tecnologías. Siempre estoy aprendiendo y superando los límites de lo que se puede lograr con:
+## 💼 My Current Role
+I’m the lead at [Eimsprosoftware](https://eimsprosoftware.com), where we develop innovative solutions using a variety of technologies. I am always learning and pushing the limits of what can be achieved with:
 
-- **PHP** para el desarrollo web dinámico
-- **Python** para el procesamiento de datos y automatización
-- **.NET (C#)** para el desarrollo de aplicaciones potentes
-- **SQL** para la gestión y consulta de bases de datos
+- **PHP** for dynamic web development
+- **Python** for data processing and automation
+- **.NET (C#)** for powerful application development
+- **SQL** for database management and querying
 
-## 🌱 Un Poco de Mi Historia
-Comencé mi viaje en la programación cuando tenía **8 años**, y desde entonces, el código se ha convertido en una gran parte de mi vida. Nací en **2008** y vivo en **Costa Rica**. Siempre estoy listo para asumir nuevos desafíos y seguir expandiendo mis conocimientos en el mundo de la tecnología. 🚀
+## 🌱 A Bit of My Story
+I started my programming journey when I was just **8 years old**, and since then, coding has become a huge part of my life. I was born in **2008** and live in **Costa Rica**. I’m always ready to take on new challenges and continue expanding my knowledge in the tech world. 🚀
 
-## 📫 ¿Cómo contactarme?
-Puedes conectarte conmigo a través de mi [sitio web](https://eimsprosoftware.com) o en mi perfil de GitHub.
+## 📫 How to contact me?
+You can connect with me through my [website](https://eimsprosoftware.com) or via my GitHub profile.
 
 ---
-
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" />
-</p>
